@@ -90,28 +90,6 @@
       </tags>
   </entry>
   <entry>
-    <title>个人简历</title>
-    <url>/2025/02/23/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</url>
-    <content><![CDATA[<h1 id="✍-教育背景"><a href="#✍-教育背景" class="headerlink" title="✍ 教育背景"></a>✍ 教育背景</h1><h3 id="中国地质大学（武汉）-emsp-emsp-地理与信息工程学院-emsp-emsp-地理信息科学专业-emsp-emsp-2021-09-2025-06"><a href="#中国地质大学（武汉）-emsp-emsp-地理与信息工程学院-emsp-emsp-地理信息科学专业-emsp-emsp-2021-09-2025-06" class="headerlink" title="中国地质大学（武汉）&emsp; &emsp; 地理与信息工程学院&emsp; &emsp; 地理信息科学专业&emsp; &emsp; 2021.09 - 2025.06"></a>中国地质大学（武汉）&emsp; &emsp; 地理与信息工程学院&emsp; &emsp; 地理信息科学专业&emsp; &emsp; 2021.09 - 2025.06</h3><hr>
-<h1 id="🏆-比赛经历"><a href="#🏆-比赛经历" class="headerlink" title="🏆 比赛经历"></a>🏆 比赛经历</h1><h2 id="🌐-GIS"><a href="#🌐-GIS" class="headerlink" title="🌐 GIS"></a>🌐 GIS</h2><h3 id="易智瑞杯"><a href="#易智瑞杯" class="headerlink" title="易智瑞杯"></a>易智瑞杯</h3><p>2023易智瑞杯中国大学生GIS软件开发竞赛地理设计组二等奖（队长）——全国可便利使用公共交通人口比例计算与分析</p>
-<p><img src="https://img.picui.cn/free/2025/02/23/67bab0ab51e47.png" alt="1740288167039.png"></p>
-<h3 id="国家级大学生创新训练项目"><a href="#国家级大学生创新训练项目" class="headerlink" title="国家级大学生创新训练项目"></a>国家级大学生创新训练项目</h3><p>大创——耦合卫星影像与多源地理空间因子的屋顶光伏用户需求预测方法研究</p>
-<p><img src="https://img.picui.cn/free/2025/02/23/67bab0c624a00.png" alt="1740288195218.png"></p>
-<h3 id="星湖杯"><a href="#星湖杯" class="headerlink" title="星湖杯"></a>星湖杯</h3><p>星湖杯全国地图设计大赛学生组专题地图三等奖（队长）——唐诗循迹·专题组图<br><img src="https://img.picui.cn/free/2025/02/23/67bab115a46e2.png" alt="1740288272808.png"></p>
-<hr>
-<h2 id="🌍-RS"><a href="#🌍-RS" class="headerlink" title="🌍 RS"></a>🌍 RS</h2><h3 id="航天宏图杯"><a href="#航天宏图杯" class="headerlink" title="航天宏图杯"></a>航天宏图杯</h3><p>2023年第六届航天宏图&amp;华为云杯PIE系统开发大赛遥感应用组二等奖（核心成员）——时序多源遥感数据的俄乌战争破坏影响研究</p>
-<h2 id="🔢-数学建模"><a href="#🔢-数学建模" class="headerlink" title="🔢 数学建模"></a>🔢 数学建模</h2><p>2023年全国大学生数学建模竞赛湖北赛区二等奖（代码位）<br>2024年第十五届华中杯大学生数学建模挑战赛一等奖（代码位）<br>2024年第十六届华中杯大学生数学建模挑战赛一等奖（代码位）<br>2023年第四届华数杯全国大学生数学建模竞赛本科组一等奖（代码位）</p>
-<hr>
-<h1 id="🧑‍💻-实习经历"><a href="#🧑‍💻-实习经历" class="headerlink" title="🧑‍💻 实习经历"></a>🧑‍💻 实习经历</h1><h3 id="金山软件-emsp-emsp-AI研发-emsp-emsp-2024-10"><a href="#金山软件-emsp-emsp-AI研发-emsp-emsp-2024-10" class="headerlink" title="金山软件&emsp; &emsp;AI研发&emsp; &emsp;2024.10"></a>金山软件&emsp; &emsp;AI研发&emsp; &emsp;2024.10</h3><p>负责运用专业工具对文本、图像、音频等多模态数据进行精准标注，确保数据质量与一致性，同时参与流程优化，提升标注效率与专业水平，保障数据安全与保密性。</p>
-]]></content>
-      <categories>
-        <category>Myself</category>
-      </categories>
-      <tags>
-        <tag>AboutMe</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【QT+SQLite】实现大学生课程学习管理与成绩评价系统（3）——代码编写</title>
     <url>/2024/03/14/%E3%80%90QT-SQLite%E3%80%91%E5%AE%9E%E7%8E%B0%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E7%AE%A1%E7%90%86%E4%B8%8E%E6%88%90%E7%BB%A9%E8%AF%84%E4%BB%B7%E7%B3%BB%E7%BB%9F%EF%BC%883%EF%BC%89%E2%80%94%E2%80%94%E4%BB%A3%E7%A0%81%E7%BC%96%E5%86%99/</url>
     <content><![CDATA[<h2 id="1-整体设计"><a href="#1-整体设计" class="headerlink" title="1.	整体设计"></a>1.	整体设计</h2><p>可视化界面设计：<br>&emsp;&emsp;本系统的可视化界面主要显示在MainWindow.ui创建的主窗口上，通过stackedWidget实现不同功能显示在不同页面的分页功能，利用tableWidget显示查询得到的数据；利用pushButton创建槽函数实现鼠标点击实现增加数据、删除数据、修改数据的功能；利用lineEdit、comboBox控件获取用户输入的信息实现增加、修改数据。<br>&emsp;&emsp;stackedWidget控件创建的pagetwo_1作为学生基本信息查询界面，pagetwo_2作为学生选课及成绩录入界面，pagetwo_3作为学生学业情况查询界面，pagetwo_4作为教师授课情况查询界面，pagetwo_5作为课程信息查询及录入界面，pagetwo_6作为系、班级信息查询界面，pagetwo_7作为教师基本信息查询界面；pagethree_1作为学生选课的界面。<br>&emsp;&emsp;同时在主窗口之外也新建了page_register.ui界面用于显示登录界面，区分是学生登入还是教师登入，并且学生登入时需要输入学号用于选课；新建了choose_tea.ui界面用于选择功能，学生登入和教师登入时可选择的功能也有不同，这样也可以保证数据库的安全性；dialog_addstu.ui界面和dialog_updatestu.ui界面分别用于增加和修改学生基础信息；map1.ui界面用于显示校园地图和实现最短路径的查询和教学设施的地图查询；map_class.ui界面录入课程信息时通过教学楼交互平面图选择课程教室；map_class2.ui界面用于实现通过在主窗口选定课程，自动显示所在教室位置的功能。<br>头文件与cpp文件：<br>&emsp;&emsp;MainWindow.h、page_register.h、choose_tea.h、dialog_addstu.h、dialog_updatestu.h、map1.h、map_class.h、map_class2.h、stu_code.h及其cpp文件均主要实现对应ui界面中的数据操作功能，在头文件和cpp文件中利用C++语言编写代码实现界面中需要的功能。map_struct.h设计用于编写空间数据的类及无向图的类，system.h及其cpp文件用于连接数据库已经实现对数据库中相应数据的增加、删除、修改以及查询和成绩到绩点的换算的功能。Mainwindow.cpp文件中利用指针实现对system.cpp文件中函数的调用，完成对数据库的维护和查询，并在主窗口中显现查询的数据或者通过pushButton的槽函数维护数据。</p>
@@ -156,6 +134,28 @@
       <tags>
         <tag>QT</tag>
         <tag>SQLite</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人简历</title>
+    <url>/2025/02/23/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</url>
+    <content><![CDATA[<h1 id="✍-教育背景"><a href="#✍-教育背景" class="headerlink" title="✍ 教育背景"></a>✍ 教育背景</h1><h3 id="中国地质大学（武汉）-emsp-emsp-地理与信息工程学院-emsp-emsp-地理信息科学专业-emsp-emsp-2021-09-2025-06"><a href="#中国地质大学（武汉）-emsp-emsp-地理与信息工程学院-emsp-emsp-地理信息科学专业-emsp-emsp-2021-09-2025-06" class="headerlink" title="中国地质大学（武汉）&emsp; &emsp; 地理与信息工程学院&emsp; &emsp; 地理信息科学专业&emsp; &emsp; 2021.09 - 2025.06"></a>中国地质大学（武汉）&emsp; &emsp; 地理与信息工程学院&emsp; &emsp; 地理信息科学专业&emsp; &emsp; 2021.09 - 2025.06</h3><hr>
+<h1 id="🏆-比赛经历"><a href="#🏆-比赛经历" class="headerlink" title="🏆 比赛经历"></a>🏆 比赛经历</h1><h2 id="🌐-GIS"><a href="#🌐-GIS" class="headerlink" title="🌐 GIS"></a>🌐 GIS</h2><h3 id="易智瑞杯"><a href="#易智瑞杯" class="headerlink" title="易智瑞杯"></a>易智瑞杯</h3><p>2023易智瑞杯中国大学生GIS软件开发竞赛地理设计组二等奖（队长）——全国可便利使用公共交通人口比例计算与分析</p>
+<p><img src="https://img.picui.cn/free/2025/02/23/67bab0ab51e47.png" alt="1740288167039.png"></p>
+<h3 id="国家级大学生创新训练项目"><a href="#国家级大学生创新训练项目" class="headerlink" title="国家级大学生创新训练项目"></a>国家级大学生创新训练项目</h3><p>大创——耦合卫星影像与多源地理空间因子的屋顶光伏用户需求预测方法研究</p>
+<p><img src="https://img.picui.cn/free/2025/02/23/67bab0c624a00.png" alt="1740288195218.png"></p>
+<h3 id="星湖杯"><a href="#星湖杯" class="headerlink" title="星湖杯"></a>星湖杯</h3><p>星湖杯全国地图设计大赛学生组专题地图三等奖（队长）——唐诗循迹·专题组图<br><img src="https://img.picui.cn/free/2025/02/23/67bab115a46e2.png" alt="1740288272808.png"></p>
+<hr>
+<h2 id="🌍-RS"><a href="#🌍-RS" class="headerlink" title="🌍 RS"></a>🌍 RS</h2><h3 id="航天宏图杯"><a href="#航天宏图杯" class="headerlink" title="航天宏图杯"></a>航天宏图杯</h3><p>2023年第六届航天宏图&amp;华为云杯PIE系统开发大赛遥感应用组二等奖（核心成员）——时序多源遥感数据的俄乌战争破坏影响研究</p>
+<h2 id="🔢-数学建模"><a href="#🔢-数学建模" class="headerlink" title="🔢 数学建模"></a>🔢 数学建模</h2><p>2023年全国大学生数学建模竞赛湖北赛区二等奖（代码位）<br>2024年第十五届华中杯大学生数学建模挑战赛一等奖（代码位）<br>2024年第十六届华中杯大学生数学建模挑战赛一等奖（代码位）<br>2023年第四届华数杯全国大学生数学建模竞赛本科组一等奖（代码位）</p>
+<hr>
+<h1 id="🧑‍💻-实习经历"><a href="#🧑‍💻-实习经历" class="headerlink" title="🧑‍💻 实习经历"></a>🧑‍💻 实习经历</h1><h3 id="金山软件-emsp-emsp-AI研发-emsp-emsp-2024-10"><a href="#金山软件-emsp-emsp-AI研发-emsp-emsp-2024-10" class="headerlink" title="金山软件&emsp; &emsp;AI研发&emsp; &emsp;2024.10"></a>金山软件&emsp; &emsp;AI研发&emsp; &emsp;2024.10</h3><p>负责运用专业工具对文本、图像、音频等多模态数据进行精准标注，确保数据质量与一致性，同时参与流程优化，提升标注效率与专业水平，保障数据安全与保密性。</p>
+]]></content>
+      <categories>
+        <category>Myself</category>
+      </categories>
+      <tags>
+        <tag>AboutMe</tag>
       </tags>
   </entry>
   <entry>
