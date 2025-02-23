@@ -158,4 +158,19 @@
         <tag>SQLite</tag>
       </tags>
   </entry>
+  <entry>
+    <title>项目概览</title>
+    <url>/2025/02/23/%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A7%88/</url>
+    <content><![CDATA[<h1 id="上海CityWalk图鉴-Cesium"><a href="#上海CityWalk图鉴-Cesium" class="headerlink" title="上海CityWalk图鉴[Cesium]"></a><strong>上海CityWalk图鉴</strong>[Cesium]</h1><p>这个项目将上海经典的几条CityWalk图鉴进行了三维可视化，辅以导航、poi聚类、天际线分析、动态天气等功能。<br><img src="https://img.picui.cn/free/2025/02/23/67bac813c9bae.png" alt="1740294157775.png"></p>
+<h1 id="太湖全域导览-Leaflet"><a href="#太湖全域导览-Leaflet" class="headerlink" title="太湖全域导览 [Leaflet]"></a><strong>太湖全域导览</strong> [Leaflet]</h1><p>“太湖全域导览”这个项目更类似于一个旅游介绍的页面，嵌入了地图的元素。<br><br>主要包含了太湖简介、自然风光、人文风韵、旅游导览四个部分，包括了一些GDP的图标可视化、DEM可视化、交通流等等。<br><img src="https://img.picui.cn/free/2025/02/23/67bac240486d5.png" alt="1740292650157.png"><br><img src="https://img.picui.cn/free/2025/02/23/67bac23fe1e0e.png" alt="1740292658483.png"><br><img src="https://img.picui.cn/free/2025/02/23/67bac24046990.png" alt="1740292666260.png"></p>
+<h1 id="LifeFlow-OpenLayers"><a href="#LifeFlow-OpenLayers" class="headerlink" title="LifeFlow [OpenLayers]"></a><strong>LifeFlow</strong> [OpenLayers]</h1><p>这个项目是一个生活便利的查询项目，起源于我的一点生活感受。<br><br>目前主流的地图软件（高德、百度等）已经提供了丰富的地图服务，出行时能够便利的查询点到点之间的出行方案，但是从一个点出发（假设为家或公司），我能够去向哪些地方呢？<br><br>这会深深地影响我们的生活，影响我们租房等的选择，所以我在此基础上将这个项目的需求进一步完善，除了基础的地图服务外，加上了生活便利和交通便利两个基础的功能。<br><br>生活便利会基于用户选择点周围一定范围内的poi点数据计算生活便利度（分值为累加，越高便利度越高），用户可以选择自己对不同poi类别的关注程度。<br><br>热力图辅助显示了周边区域生活便利的程度。<br><br>交通便利则主要是附近的公交站点能够通达的范围。<br><br>项目地址：<a href="https://github.com/Anchenry/LifeFlow">https://github.com/Anchenry/LifeFlow</a><br><img src="https://img.picui.cn/free/2025/02/23/67bac42ec8e39.png" alt="1740293159641.png"></p>
+<h1 id="QGIS二次开发"><a href="#QGIS二次开发" class="headerlink" title="QGIS二次开发"></a><strong>QGIS二次开发</strong></h1><p>基于C++的QGIS二次开发，界面如下图所示。<br><img src="https://img.picui.cn/free/2025/02/23/67bac89ab1fca.png" alt="1740294295301.png"></p>
+]]></content>
+      <categories>
+        <category>Project</category>
+      </categories>
+      <tags>
+        <tag>Overview</tag>
+      </tags>
+  </entry>
 </search>
